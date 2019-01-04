@@ -24,7 +24,7 @@
 
 /* Positioning Classes */
 
-#img1 {
+.img1 {
   float: left;
    width: 60px;
 
@@ -37,7 +37,7 @@
   
 }
 
-#img3 {
+.img3 {
   float: none;
   
 }
