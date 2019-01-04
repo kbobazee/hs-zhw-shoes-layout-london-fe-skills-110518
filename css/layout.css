@@ -39,6 +39,8 @@
 }
 
 .img3 {
-  float: none;
+  float: left;
+  border: 5px;
+
   
 }
