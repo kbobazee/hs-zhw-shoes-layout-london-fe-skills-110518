@@ -44,6 +44,7 @@
   float: left;
   border: 5px;
   column-count: 3;
+  column-span: all;
   column-gap: 50px;
   
 }
