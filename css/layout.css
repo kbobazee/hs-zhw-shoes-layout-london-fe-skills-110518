@@ -29,7 +29,10 @@
 
 }
 
-#img2 {float: right;
+.right {
+  position: absolute;
+  right: 0px;
+  width: 200px;
   
 }
 
