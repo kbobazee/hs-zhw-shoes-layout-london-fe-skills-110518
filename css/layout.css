@@ -47,6 +47,6 @@
 
 .footer {column-count: 3;
   column-span: all;
-  column-rule: 1px solid lightblue;
+  column-rule: 1px solid grey;
 
 }
