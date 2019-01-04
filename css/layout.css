@@ -25,10 +25,16 @@
 /* Positioning Classes */
 
 .img1 {
-  column-count: 2;
-  column-span: all;
-  table-layout: auto;
- 
+  column-count: 1;
+  display: block;
+  border: 5px;
+
+}
+
+.shoe {
+  display: block;
+  column-count: 1;
+  border: 5px;
 }
 
 .img2 {
