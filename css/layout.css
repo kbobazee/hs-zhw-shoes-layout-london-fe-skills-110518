@@ -24,4 +24,7 @@
 
 /* Positioning Classes */
 
+.clearfix {
+  overflow: auto;
+}
 
