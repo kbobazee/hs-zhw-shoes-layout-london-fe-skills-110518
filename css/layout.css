@@ -25,9 +25,10 @@
 /* Positioning Classes */
 
 .img1 {
-  float: left;
   position: relative;
   display: block;
+  column-count: 2;
+  column-span: all;
  
 }
 
