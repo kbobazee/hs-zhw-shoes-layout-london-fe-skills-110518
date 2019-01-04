@@ -27,6 +27,7 @@
 .img1 {
   column-count: 2;
   column-span: all;
+  table-layout: auto;
  
 }
 
