@@ -41,7 +41,6 @@
 .img3 {
   column-count: 3;
   column-span: all;
-  column-fill: auto;
   column-gap: 40px;
   border: 5px;
   
