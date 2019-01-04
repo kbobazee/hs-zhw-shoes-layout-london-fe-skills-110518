@@ -28,14 +28,20 @@
   overflow: auto;
 }
 
-div.relative {
+.relative {
+  position: relative;
+  width: 400px;
+  height: 200px;
+  border: 3px solid #73AD21;
+
+.r {
   position: relative;
   width: 400px;
   height: 200px;
   border: 3px solid #73AD21;
 } 
 
-div.absolute {
+.absolute {
   position: absolute;
   top: 80px;
   right: 0;
