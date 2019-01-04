@@ -28,6 +28,7 @@
   float: left;
   display: block;
   border: 4px transparent;
+  column-count: 1;
  
 }
 
@@ -35,6 +36,7 @@
   position: absolute;
   right: 0px;
   width: 200px;
+  column-count: 2;
   
 }
 
@@ -42,6 +44,5 @@
   float: left;
   border: 5px;
   column-count: 3;
-  text-align: center;
   
 }
