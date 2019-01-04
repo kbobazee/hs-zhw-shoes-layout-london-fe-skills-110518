@@ -27,8 +27,8 @@
 .img1 {
   float: left;
   display: block;
+  border: 4px transparent;
  
-
 }
 
 .right {
