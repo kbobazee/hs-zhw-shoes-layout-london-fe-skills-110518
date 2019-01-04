@@ -35,6 +35,7 @@
   display: block;
   column-count: 1;
   border: 5px;
+  float: right;
 }
 
 .img2 {
