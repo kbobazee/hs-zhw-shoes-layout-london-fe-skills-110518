@@ -44,3 +44,8 @@
   border: 5px;
   
 }
+
+.footer {column-count: 3;
+  column-span: all;
+
+}
