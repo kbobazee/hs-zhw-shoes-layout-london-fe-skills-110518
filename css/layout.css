@@ -24,5 +24,16 @@
 
 /* Positioning Classes */
 
+#img1 {
+  float: left;
 
+}
 
+#img2 {float: right;
+  
+}
+
+#img3 {
+  float: none;
+  
+}
