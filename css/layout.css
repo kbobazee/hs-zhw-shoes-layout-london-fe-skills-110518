@@ -28,14 +28,12 @@
   float: left;
   position: relative;
   display: block;
-  column-count: 1;
  
 }
 
 .right {
   position: absolute;
   right: 0px;
-  column-count: 1;
   
 }
 
