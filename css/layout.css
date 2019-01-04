@@ -31,14 +31,7 @@
  
 }
 
-.right {
-  position: absolute;
-  right: 0px;
-  border: 5px;
-  
-}
-
-.img3 {
+.img2 {
   column-count: 3;
   column-span: all;
   column-gap: 40px;
