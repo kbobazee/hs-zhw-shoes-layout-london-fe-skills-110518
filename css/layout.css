@@ -42,5 +42,6 @@
   float: left;
   border: 5px;
   column-count: 3;
+  text-align: bottom;
   
 }
